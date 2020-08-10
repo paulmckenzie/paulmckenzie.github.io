@@ -68,3 +68,6 @@ Senior analyst–programmer working on a bank–wide Market Risk system. We were
 ___
 
 2020.07.08
+
+
+CV [colophon](cv-colophon.md)

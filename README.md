@@ -1,7 +1,7 @@
-## Welcome to Paul McKenzie GitHub Pages 
+# Paul McKenzie 
 
-### About Me
+> An experienced Java and Scala developer and team lead. More than 20 years working in the banking sector.
 
-I'm an experience Scala/Java developer and team lead. I have been working in the banking sector for over 20 years now.
+![image](pmk-photo.jpeg)
 
-My CV is [here](PaulMcKenzie.md) 
+My CV is [here](PaulMcKenzie.md)
