@@ -2,15 +2,27 @@
 
 > An experienced Java and Scala developer and team lead. 
 
- 
-## April 2009 – Present, Brick Kiln Software
-
-I provide professional services to clients through my limited company *Brick Kiln Software*. 
-
 ## October 2019 - Present, Deutsche Bank
+_Senior Engineer/Tech Lead -- Structuring_
+
+My current role is Tech Lead, supporting the _Strand_ Application, which provides control and audit workflows for the bank's largest complex strucured transactions.  The application is written in Scala.  
+
+I took the Tech lead role as the team underwent a sustantial shift in personel and initially the focus was on recruitment and re-founding the team ethos. We take our engineering practises from XP and Clean Code, we schedule our work using Kanban and
+we take our planning and prioritisation partly from Scrum.
+
+ My role as Tech lead is to protect the development team from distrations coming from demands for work by other teams or central functions.
+
+* To make sure the development team maintains focus on the objectives set by the portfolio lead
+* Servant Leadership; to clear obstacles from the path of the team and to remove waste.
+* Hold the team to its own high standars.
+* To be the product owner for the technical debt, but the technical debt is strill a concern for the whole team
+* To represent the team and to articulate the value proposition of the team to management and external stakeholders.
+
+Improving our performance against the 4 key DORA metrics is something we aim for in our work.  I also make sure that I am still hands-on with the code.  The teach lead role is also a line manager role.
+
 _Senior Engineer -- Release and Deployment Automation_
 
-I work in the Release Automation and Deployment team. We have developed an example deployment pipeline using Kubernetes, Jenkins, Openshift, Helm and Jib. We use this to help development teams move their applications to a CI/CD pipeline through workshops, chat-rooms and other materials. Along with supporting this, my role has been to develop a series of integration points with the Service Now SDLC system. This is so that we can get closer to *Ideas to production, safely in a day*, which is the goal of the department. This development work has been Java 8. I am only at the beginning of my exploration of Kubernetes and the cloud-native ecosystem. I have also been active in a new group called the Voice of the Engineer. This has been formed explicitly to provide an engineering perspective on bank-wide issues. 
+Before I moved to the Strand team, I worked in the Release Automation and Deployment team. We developed an example deployment pipeline using Kubernetes, Jenkins, Openshift, Helm and Jib, used to help development teams move their applications to a CI/CD pipeline through workshops, chat-rooms and other materials. Along with supporting this, my role was to integrate this pipeline with the bank's release controls, in Service Now, so that we could get closer to *Ideas to production, safely in a day*, which is the goal of the department. Our focus was on developing CI/CD pipeline automation tooling for the whole bank.
 
  
 ## November 2015 – May 2019, Barclays Wealth
@@ -67,7 +79,5 @@ Senior analyst–programmer working on a bank–wide Market Risk system. We were
 
 ___
 
-2020.07.08
+2022.05.15
 
-
-CV [colophon](cv-colophon.md)
