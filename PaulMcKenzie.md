@@ -5,18 +5,19 @@
 ## October 2019 - Present, Deutsche Bank
 _Senior Engineer/Tech Lead -- Structuring_
 
-My current role is Tech Lead, supporting the _Strand_ Application, which provides control and audit workflows for the bank's largest complex strucured transactions.  The application is written in Scala.  
+My current role is Tech Lead, supporting the _Strand_ Application. Strand provides control and audit workflows for the bank's largest complex structured transactions.  The application is written in Scala.  
 
-I took the Tech lead role as the team underwent a sustantial shift in personel and initially the focus was on recruitment and re-founding the team ethos. We take our engineering practises from XP and Clean Code, we schedule our work using Kanban and
-we take our planning and prioritisation partly from Scrum.
+I took the Tech Lead role as the team underwent a large shift in personnel. Initially, the focus was on recruitment and re-founding the team ethos. 
+We take our engineering practises from XP and Clean Code, we schedule our work using Kanban and we take our planning and prioritisation 
+partly from Scrum.
 
- My role as Tech lead is to protect the development team from distrations coming from demands for work by other teams or central functions.
+My role as Tech lead is to protect the development team from distractions. These are coming from demands for work by other teams or central functions.
 
 * To make sure the development team maintains focus on the objectives set by the portfolio lead
 * Servant Leadership; to clear obstacles from the path of the team and to remove waste.
 * Hold the team to its own high standards.
 * To be the product owner for the technical debt, but the technical debt is still a concern for the whole team
-* To represent the team and to articulate the value proposition of the team to management and external stakeholders.
+* To represent the team, and to articulate the value proposition of the team, to management and external stakeholders.
 
 Improving our performance against the 4 key DORA metrics is something we aim for in our work.  I also make sure that I am still hands-on with the code.  The teach lead role is also a line manager role.
 
