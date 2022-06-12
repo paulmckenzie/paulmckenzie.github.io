@@ -14,8 +14,8 @@ we take our planning and prioritisation partly from Scrum.
 
 * To make sure the development team maintains focus on the objectives set by the portfolio lead
 * Servant Leadership; to clear obstacles from the path of the team and to remove waste.
-* Hold the team to its own high standars.
-* To be the product owner for the technical debt, but the technical debt is strill a concern for the whole team
+* Hold the team to its own high standards.
+* To be the product owner for the technical debt, but the technical debt is still a concern for the whole team
 * To represent the team and to articulate the value proposition of the team to management and external stakeholders.
 
 Improving our performance against the 4 key DORA metrics is something we aim for in our work.  I also make sure that I am still hands-on with the code.  The teach lead role is also a line manager role.
